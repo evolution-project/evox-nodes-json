@@ -7,20 +7,6 @@
       "ssl": false,
       "cache": false
     },
-   {
-      "name": "Bot.Tips Blockchain Cache",
-      "url": "evox.bot.tips",
-      "port": 80,
-      "ssl": false,
-      "cache": true
-    },
-   {
-      "name": "Bot.Tips Blockchain Cache - SSL",
-      "url": "evox.bot.tips",
-      "port": 443,
-      "ssl": true,
-      "cache": true
-    },
     {
       "name": "US Public Node",
       "url": "us.evolutionproject.space",
